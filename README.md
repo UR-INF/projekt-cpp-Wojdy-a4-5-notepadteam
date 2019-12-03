@@ -49,11 +49,11 @@ Ostatnią funkcją programu jest możliwość zmienienia : („Font,Font_style,s
 Aby wejść w tą funkcjonalność postępujemy przechodząc w zakładkę "Czcionka"
  
 
-Preferencje do współpracy
-Mwojdyla0@gmail.com
+## Preferencje do współpracy
+ Mwojdyla0@gmail.com
 
 ### Diagram przypadków użycia
-![Screenshot](use_cases_diagram.png)
+![Screenshot](Use_cases_diagram.png)
 
 
 ## Autor 
