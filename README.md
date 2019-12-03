@@ -53,7 +53,7 @@ Aby wejść w tą funkcjonalność postępujemy przechodząc w zakładkę "Czcio
  Mwojdyla0@gmail.com
 
 ### Diagram przypadków użycia
-![Screenshot](Use_cases_diagram.png)
+![Screenshot](Use_case_diagram.png)
 
 
 ## Autor 
