@@ -51,7 +51,7 @@ Aby wejść w tą funkcjonalność należy kliknąć w zakładkę Format->Czcion
  Mwojdyla0@gmail.com
 
 ### Diagram przypadków użycia
-![Screenshot](Use_case_diagram.png)
+![Screenshot](Use_Case_Diagram.png)
 
 
 ## Autor 
