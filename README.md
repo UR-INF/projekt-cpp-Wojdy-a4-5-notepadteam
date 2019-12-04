@@ -58,3 +58,4 @@ Aby wejść w tą funkcjonalność należy kliknąć w zakładkę Format->Czcion
 Marek Wojdyła
 
 
+
