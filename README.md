@@ -23,7 +23,7 @@ aplikacji przejście na stronę internetową która w sposób szczegółowy opis
 
 ## Instalacja
 Aplikacja nie wymaga instalowania aby uruchomić program należy kliknąć dwukrotnie
-w ikonę „projekt1.exe” po czym aplikacja zostanie wprowadzona w proces uruchamiania
+w ikonę „project1.exe” po czym aplikacja zostanie wprowadzona w proces uruchamiania
 i będzie gotowa do pracy.
 
 
